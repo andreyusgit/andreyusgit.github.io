@@ -46,6 +46,7 @@ function auth_done(){
     logout.style.border = "3px solid rgb(105, 0, 0)";
     document.getElementById("traning_page").style.display = "inline";
     document.getElementById("config_page").style.display = "inline";
+    document.getElementById("directory_page").style.display = "inline";
     document.getElementById("record_page").style.display = "inline";
     document.getElementById("vegetables_picture").style.display = "none";
     document.getElementById("side_dish_1").style.display = "inline";
